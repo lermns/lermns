@@ -1,10 +1,5 @@
 # Just 4 fun
 
-![kuroko](https://github.com/lermns/lermns/assets/123558234/14c1b9f6-cd7c-4170-9cb9-3d3e13cbe420)
----
-![akagamiGirl](https://github.com/lermns/lermns/assets/123558234/a470f781-41ab-4e1d-9ad4-6854b0884677)
----
-![runNaruto](https://github.com/lermns/lermns/assets/123558234/a332e1e7-9366-440d-a82b-3fb86cbd71e5)
 <!--
 **lermns/lermns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
