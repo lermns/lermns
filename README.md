@@ -1,4 +1,5 @@
-# Just 4 fun
+# Try harder next time
+![karina-formanova-cover-final](https://github.com/lermns/lermns/assets/123558234/340645e8-ba89-4539-9863-fa4053cf86e1)
 
 <!--
 **lermns/lermns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
