@@ -1,17 +1,53 @@
-# Try harder next time
-![karina-formanova-cover-final](https://github.com/lermns/lermns/assets/123558234/340645e8-ba89-4539-9863-fa4053cf86e1)
+###
 
-<!--
-**lermns/lermns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+</div>
 
-Here are some ideas to get you started:
+###
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align="center">Hola...! 👋</h1>
+
+###
+
+<h3 align="center">👩‍💻  Sobre mi</h3>
+
+###
+
+<p align="left">Me llamo Leonardo y soy un estudiante de primero de DAM (Desarrollo de Aplicaciones Multiplataforma). Desde siempre, he estado inmerso en el mundo de la informática, y decidí cursar este grado porque ya tenía algunas nociones de programación. Actualmente, estoy realizando un curso en Udemy sobre Spring Framework 6 y Spring Boot 3. Dado que el lenguaje Java es una de mis fortalezas dentro del grado, estoy aprovechando mi tiempo libre para ampliar mis conocimientos en esta área. Estoy ansioso por adentrarme en el mundo laboral y seguir aprendiendo sobre estas tecnologías, así como explorar otras nuevas.<br><br>- 🔭 Trabajando media jornada en otro sector no relacionado con la informática.<br>- 📚 Actualmente aprendiendo Spring Framework.<br>- ⚡ En mi tiempo libre me gusta aprender sobre herramientas que me ayuden a optimizar mis deberes.</p>
+
+###
+
+<h3 align="center">🛠 Lenguajes y herramientas</h3>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
+  <img width="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
+  <img width="32" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
+  <img width="32" />
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo"  />
+  <img width="32" />
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="250" src="https://github.com/lermns/lermns/assets/123558234/340645e8-ba89-4539-9863-fa4053cf86e1"  />
+</div>
+
+###
