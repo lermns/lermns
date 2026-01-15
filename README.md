@@ -1,15 +1,46 @@
-###
+# ¡Hola, soy Leonardo Ramos B.! 👋
 
- <div align="center">
-      <a href="https://www.linkedin.com/in/leonardo-ramos-barrenozo-37107128b/">
-          <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
-      </a>
-  </div>
+Full Stack Developer | Next.js & NestJS | TypeScript
 
-###
+Enfocado en crear aplicaciones de calidad con Next.js & NestJS.
 
-<div align="center">
-  <img height="250" src="https://github.com/lermns/lermns/assets/123558234/340645e8-ba89-4539-9863-fa4053cf86e1"  />
-</div>
+## 🚀 Sobre mí
 
-###
+- 🔹 Especializado en React, React Native, Next.js & NestJS
+- 👨‍🍳 Formación culinaria profesional → Aplicando precisión, eficiencia y mentalidad de optimización al desarrollo de software
+- 🎯 Enfocado en arquitectura limpia, mejores prácticas y soluciones centradas en el usuario
+<!-- - 🌐 Portfolio: [josemorenodev.com](https://josemorenodev.com/)-->
+
+## 💻 Stack Tecnológico
+
+**Frontend:** Next.js • React • React Native • TypeScript • TailwindCSS  
+**Backend:** NestJS • FastAPI  
+**Base de Datos:** PostgreSQL • MySQL  
+**DevOps:** Docker • Git • Vercel • Railway
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,docker,java,postman,react,ts,next,tailwind,nest,postgres" />
+  </a>
+</p>
+
+## 🎯 Habilidades Transferibles desde las Artes Culinarias
+
+**Precisión y Calidad** → Estándares de código y testing  
+**Rendimiento bajo Presión** → Cumplir plazos y manejar incidentes  
+**Coordinación en Equipo** → Colaboración ágil  
+**Resolución de Problemas** → Soluciones creativas con restricciones  
+
+## 🌱 Actualmente Dominando
+
+- Next.js 15 (App Router, Server Components, Server Actions)
+- NestJS (TypeORM, Autenticación, Testing, Microservicios)
+- Arquitectura y despliegue de proyectos full-stack
+
+## 📬 Contacto
+
+💼 [LinkedIn](https://www.linkedin.com/in/leonardo-r-37107128b) • 📧 lermnss@gmail.com <!--• 🌐 [Portfolio](https://josemorenodev.com/)-->
+
+---
+
+*Aplicando la disciplina de la cocina al oficio del código* 🚀
