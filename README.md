@@ -6,9 +6,8 @@ Enfocado en crear aplicaciones de calidad con Next.js & NestJS.
 
 ## 🚀 Sobre mí
 
-- 🔹 Especializado en React, React Native, Next.js & NestJS
-- 👨‍🍳 Formación culinaria profesional → Aplicando precisión, eficiencia y mentalidad de optimización al desarrollo de software
-- 🎯 Enfocado en arquitectura limpia, mejores prácticas y soluciones centradas en el usuario
+- 🔹 Especializado en React, React Native, Next.js & NestJS.
+- 🎯 Enfocado en estructura limpia, mejores prácticas y soluciones centradas en la eficiencia.
 <!-- - 🌐 Portfolio: [josemorenodev.com](https://josemorenodev.com/)-->
 
 ## 💻 Stack Tecnológico
@@ -23,13 +22,6 @@ Enfocado en crear aplicaciones de calidad con Next.js & NestJS.
     <img src="https://skillicons.dev/icons?i=git,github,docker,java,postman,react,ts,next,tailwind,nest,postgres" />
   </a>
 </p>
-
-## 🎯 Habilidades Transferibles desde las Artes Culinarias
-
-**Precisión y Calidad** → Estándares de código y testing  
-**Rendimiento bajo Presión** → Cumplir plazos y manejar incidentes  
-**Coordinación en Equipo** → Colaboración ágil  
-**Resolución de Problemas** → Soluciones creativas con restricciones  
 
 ## 🌱 Actualmente Dominando
 
