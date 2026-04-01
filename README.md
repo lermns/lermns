@@ -32,7 +32,3 @@ Enfocado en crear aplicaciones de calidad con Next.js & NestJS.
 ## 📬 Contacto
 
 💼 [LinkedIn](https://www.linkedin.com/in/leonardo-r-37107128b) • 📧 lermnss@gmail.com <!--• 🌐 [Portfolio](https://josemorenodev.com/)-->
-
----
-
-*Aplicando la disciplina de la cocina al oficio del código* 🚀
