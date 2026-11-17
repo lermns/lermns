@@ -1,16 +1,16 @@
-# ¡Hola, soy Leonardo Ramos B.! 👋
+# ¡Hola, soy Leonardo Ramos B.!
 
 Full Stack Developer | Next.js & NestJS | TypeScript
 
 Enfocado en crear aplicaciones de calidad con Next.js & NestJS.
 
-## 🚀 Sobre mí
+## Sobre mí
 
-- 🔹 Especializado en React, React Native, Next.js & NestJS.
-- 🎯 Enfocado en estructura limpia, mejores prácticas y soluciones centradas en la eficiencia.
+- Especializado en React, React Native, Next.js & NestJS.
+- Enfocado en estructura limpia, mejores prácticas y soluciones centradas en la eficiencia.
 <!-- - 🌐 Portfolio: [josemorenodev.com](https://josemorenodev.com/)-->
 
-## 💻 Stack Tecnológico
+## Stack Tecnológico
 
 **Frontend:** Next.js • React • React Native • TypeScript • TailwindCSS  
 **Backend:** NestJS • FastAPI  
@@ -23,12 +23,6 @@ Enfocado en crear aplicaciones de calidad con Next.js & NestJS.
   </a>
 </p>
 
-## 🌱 Actualmente Dominando
+## Contacto
 
-- Next.js 15 (App Router, Server Components, Server Actions)
-- NestJS (TypeORM, Autenticación, Testing, Microservicios)
-- Arquitectura y despliegue de proyectos full-stack
-
-## 📬 Contacto
-
-💼 [LinkedIn](https://www.linkedin.com/in/leonardo-r-37107128b) • 📧 lermnss@gmail.com <!--• 🌐 [Portfolio](https://josemorenodev.com/)-->
+[LinkedIn](https://www.linkedin.com/in/leonardo-r-37107128b) - lermnss@gmail.com <!--• 🌐 [Portfolio](https://josemorenodev.com/)-->
